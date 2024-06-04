@@ -1,7 +1,8 @@
-package com.example.applicationscanning
+package com.example.applicationscanning.bookmark
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.applicationscanning.R
 import com.example.applicationscanning.databinding.ActivityBookmarkBinding
 
 class BookmarkActivity : AppCompatActivity() {
@@ -9,6 +10,6 @@ class BookmarkActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityBookmarkBinding.inflate(layoutInflater)
-        setContentView(R.layout.activity_bookmark)
+        setContentView(binding.root)
     }
 }

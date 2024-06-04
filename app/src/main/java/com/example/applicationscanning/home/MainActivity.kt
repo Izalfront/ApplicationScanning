@@ -3,9 +3,7 @@ package com.example.applicationscanning.home
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.Menu
-import com.example.applicationscanning.ComentActivity
-import com.example.applicationscanning.R
+import com.example.applicationscanning.coment.ComentActivity
 import com.example.applicationscanning.databinding.ActivityBookmarkBinding
 import com.example.applicationscanning.databinding.ActivityMainBinding
 import com.example.applicationscanning.edit.EditActivity

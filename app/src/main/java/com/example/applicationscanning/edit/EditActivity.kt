@@ -3,9 +3,8 @@ package com.example.applicationscanning.edit
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.applicationscanning.ComentActivity
+import com.example.applicationscanning.coment.ComentActivity
 import com.example.applicationscanning.R
-import com.example.applicationscanning.databinding.ActivityComentBinding
 import com.example.applicationscanning.databinding.ActivityEditBinding
 
 class EditActivity : AppCompatActivity() {

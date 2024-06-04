@@ -10,4 +10,6 @@
     <string name="submit">Submit</string>
     <string name="paste_your_text_here">Paste your text here</string>
     <string name="bookmark">Bookmark</string>
+    <string name="result">Result</string>
+    <string name="save">Save</string>
 </resources>
