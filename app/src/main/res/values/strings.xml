@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RecognITE</string>
+    <string name="btn_paste">Paste the Comment</string>
+    <string name="crop">crop</string>
+    <string name="rotate">rotate</string>
+    <string name="contrast">contrast</string>
+    <string name="brightness">brightness</string>
+    <string name="flip">flip</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="paste_your_text_here">Paste your text here</string>
+    <string name="bookmark">Bookmark</string>
+</resources>
