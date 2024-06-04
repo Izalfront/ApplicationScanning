@@ -16,9 +16,6 @@
             android:name=".result.HasilActivity"
             android:exported="false" />
         <activity
-            android:name=".result.ResultActivity"
-            android:exported="false" />
-        <activity
             android:name=".bookmark.BookmarkActivity"
             android:exported="false" />
         <activity
